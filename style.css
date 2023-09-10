@@ -33,7 +33,8 @@ body {
   .alpha {
     width: 4rem;
     height: 4rem;
-    background: #ffe5b4;
+    background-image: linear-gradient(to right ,rgb(152, 121, 234), rgb(18, 82, 145),aqua);
+    color: white;
     border: none;
     border-radius: 4px;
     font-size: 30px;
@@ -62,7 +63,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #fc6c85;
+    background-image:linear-gradient(to right, rgb(229, 26, 114),rgb(203, 72, 116));
+    color: white;
     width: 20rem;
     padding: 20px 10px;
     border-radius: 4px;
